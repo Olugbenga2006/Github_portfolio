@@ -33,13 +33,19 @@ These show my progress and improvements in my coding abilities over the years
 
 ### Skills
 
-• Basic programming 
-• Python programming 
-• Java programming 
-• Basic Microsoft office knowledge 
-• Cooperative social skills 
-• Organisational skills 
-• Time management
+Technical Skills
+
+Proficient in Python and Java programming, with hands-on experience through academic and project work
+
+Skilled in Microsoft Office Suite (Excel, PowerPoint, Word) for documentation, analysis, and presentations
+
+Professional Skills
+
+Strong teamwork and collaboration abilities, with experience working effectively in group projects
+
+Excellent organisation and time management, able to meet deadlines and balance multiple priorities
+
+Clear and confident communication skills, both written and verbal
 
 ### Education History
 | School Name                   | Town / City   |     Attended    |
