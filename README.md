@@ -33,13 +33,13 @@ These show my progress and improvements in my coding abilities over the years
 
 ### Skills
 
-Technical Skills
+#### Technical Skills:
 
 Proficient in Python and Java programming, with hands-on experience through academic and project work
 
 Skilled in Microsoft Office Suite (Excel, PowerPoint, Word) for documentation, analysis, and presentations
 
-Professional Skills
+#### Professional Skills:
 
 Strong teamwork and collaboration abilities, with experience working effectively in group projects
 
